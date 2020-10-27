@@ -9,7 +9,7 @@ subclass: 'post page'
 ---
 
 ### Who Am I?
-Hi! I'm Sean Boerhout, and I'm a student at Westview High School. I really like to make stuff, so this blog is where I can share my creations, thoughts, or whatever else I feel like. 
+Hi! I'm Sean Boerhout, and I'm a student at Westview High School. I really like to make stuff, so this blog is where I can share my creations, thoughts, or whatever else I feel like sharing. 
 
 I am the president of Westview's Arduino Club, a club focused on allowing students to work on Arduino projects with their friends and learn with their peers.
 
