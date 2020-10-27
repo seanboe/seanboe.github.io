@@ -8,10 +8,13 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+### Who Am I?
+Hi! I'm Sean Boerhout and Im' a student at Westview High School. I really like to make stuff, so this blog is where I can share my creations, thoughts, or whatever else I feel like. 
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+I am the president of Westview's Arduino Club, a club focused on allowing students to work on Arduino projects with their friends and learn with their peers.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+### Dope Web! How'd You Make It???
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+I used Jekyll/Github Pages with the [Ghost/Jasper2](https://github.com/jekyller/jasper2) layout. Creting this was easier than I thought and there isn't even a need to host it locally! Here's my [github repo](https://github.com/seanboe/blog/) in case you're wondering.
+
+#starting with a > makes a cool italic thingy
