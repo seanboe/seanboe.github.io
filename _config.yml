@@ -6,7 +6,7 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog/
+baseurl: /blog/   
 
 # Website info
 title: Ghost
@@ -93,3 +93,5 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+  
+# website reset comment(only pupose of this comment is to force website to update)
