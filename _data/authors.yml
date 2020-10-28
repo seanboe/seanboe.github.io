@@ -1,3 +1,13 @@
+sean:
+  username: sean
+  name: Sean
+  url_full: http://seanboe.github.io/blog/
+  url: seanboe.github.io/blog/
+  bio: Student at Westview High School
+  picture: assets/images/sean_profile.jpg
+  facebook: sean.boerhout
+  twitter: False
+  cover: False
 ghost:
   username: ghost
   name: Ghost
@@ -27,28 +37,6 @@ john:
   url: john.onolan.org
   bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
   picture: assets/images/john.jpg
-  facebook: False
-  twitter: False
-  cover: False
-lewis:
-  username: lewis
-  name: Lewis Carroll
-  location: Cheshire, England
-  url_full: False
-  url: False
-  bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
-  picture: assets/images/lewis.jpeg
-  facebook: False
-  twitter: False
-  cover: False
-abraham:
-  username: abraham
-  name: Abraham Lincoln
-  location: Kentucky, USA
-  url_full: False
-  url: False
-  bio: I was the 16th president of the USA until I was assassinated in April of 1865. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
-  picture: assets/images/abraham.jpg
   facebook: False
   twitter: False
   cover: False

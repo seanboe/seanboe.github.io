@@ -9,9 +9,9 @@ words_per_minute: 200
 baseurl: /blog/   
 
 # Website info
-title: Ghost
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
+title: Sean Boerhout
+description: Student | Arduino-er
+cover: assets/images/cover_northern_lights.jpeg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
@@ -23,7 +23,7 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+facebook: sean.boerhout # replace by your username
 
 # Disqus
 disqus: False
@@ -67,8 +67,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: seanboe
+repo: blog
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
