@@ -6,8 +6,8 @@ sean:
   bio: Student at Westview High School
   picture: assets/images/sean_profile.jpg
   facebook: sean.boerhout
-  twitter: False
-  cover: False
+  twitter: SeanBoe3
+  cover: assets/images/cnc_portrait1.jpeg
 ghost:
   username: ghost
   name: Ghost

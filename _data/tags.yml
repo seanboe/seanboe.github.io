@@ -6,3 +6,7 @@ introduction:
     name: introduction
     description: Everything has an intro!
     cover: False
+books:
+  name: Books
+  description: Books, books, and more books!
+  cover: assets/images/prelude_foundation.jpeg
