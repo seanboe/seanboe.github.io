@@ -22,7 +22,7 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
+twitter: SeanBoe3 # replace by your username
 facebook: sean.boerhout # replace by your username
 
 # Disqus

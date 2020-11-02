@@ -29,36 +29,6 @@ hannah:
   facebook: False
   twitter: erisds
   cover: assets/images/hannah-cover.jpg
-john:
-  username: john
-  name: John O'Nolan
-  location: On a plane
-  url_full: http://john.onolan.org/
-  url: john.onolan.org
-  bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
-  picture: assets/images/john.jpg
-  facebook: False
-  twitter: False
-  cover: False
-edgar:
-  username: edgar
-  name: Edgar Rice Burroughs
-  location: Chicago, Illinois
-  url_full: False
-  url: False
-  bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
-  picture: assets/images/edgar.gif
-  facebook: False
-  twitter: False
-  cover: False
-martin:
-  username: martin
-  name: Martin Luther King
-  location: Memphis, Tennessee
-  url_full: False
-  url: False
-  bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
-  picture: assets/images/martin.jpg
-  facebook: False
-  twitter: False
-  cover: False
+
+
+
