@@ -13,8 +13,8 @@ title: Sean Boerhout
 description: Student | Arduino-er
 cover: assets/images/cover_galaxy.jpeg
 logo: assets/images/logo_full-white.png
-logo_dark: assets/images/logo_favicon32-32.png
-favicon: assets/images/logo_favicon32-32.png
+logo_dark: assets/images/favicon.png
+favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
 
 # Social info
@@ -30,7 +30,7 @@ disqus: False
 disqus_shortname: jekyller # replace with your disqus username
 
 # Google Analytics
-google_analytics: G-WNK82EPB73 # replace with your GA tracking identifier
+google_analytics: G-640KW6ML3C # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
