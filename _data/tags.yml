@@ -1,7 +1,3 @@
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
 introduction:
     name: introduction
     description: Everything has an intro!
