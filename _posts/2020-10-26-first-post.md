@@ -6,7 +6,7 @@ navigation: True
 title: My First Post!
 date: 2020-02-17  10:18:00
 tags: introduction
-class: post-templeate
+class: post-template
 subclass: 'post'
 author: sean
 ---

@@ -10,3 +10,7 @@ cnc:
   name: CNC Machine Projects
   description: Projects I've done with my diy cnc/milling machine
   cover: assets/images/cnc_pics/cnc_portrait1.jpeg
+Arduino:
+  name: Arduino Club
+  description: The club that I founded and am the president of
+  cover: False
