@@ -18,4 +18,4 @@ I used jekyll/github pages and the [ghost/jasper2](https://github.com/jekyller/j
 
 Whatever. The website looks good, and I'm happy. Hopefully I'll be able to populate this soon with things like Arduino projects, Arduino projects, and Arduino projects, and maybe some cool books I've read or things I've done for school. 
 
-Bye!
+Bye!!
